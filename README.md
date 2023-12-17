@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shuvo</h1>
+<h1 align="center">Hi 👋, I'm Shuvo!</h1>
 <h3 align="center">A Bangladeshi data science enthusiast in London</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuuuvo&label=Profile%20views&color=0e75b6&style=flat" alt="shuuuvo" /> </p>
@@ -8,6 +8,8 @@
 - 👯 I’m looking to collaborate on **Data Science, Machine Learning, Artificial Intelligence, Computer Vision**
 
 - 📫 How to reach me **grshuvo815@gmail.com**
+
+- 📄 Know about my experiences [here]()
 
 - ⚡ Fun fact **I love to sleep.**
 
