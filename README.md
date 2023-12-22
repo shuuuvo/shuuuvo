@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **grshuvo815@gmail.com**
 
-- 📄 Download my resume, **[click here](https://raw.githubusercontent.com/shuuuvo/shuuuvo/main/Shuvo_AcademicCV.pdf)**.
+- 📄 Download my resume, **[click here](https://raw.githubusercontent.com/shuuuvo/shuuuvo/main/CV/Shuvo_AcademicCV.pdf)**.
 
 - ⚡ Fun fact **I love to sleep**.
 
