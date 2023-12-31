@@ -11,7 +11,9 @@
 
 - 📄 Download my resume, **[click here](https://raw.githubusercontent.com/shuuuvo/shuuuvo/main/CV/Shuvo_AcademicCV.pdf)**.
 
-- ⚡ Fun fact **I love to sleep**.
+- ⚡ Fun fact **I'm an avid hiker, have climed mountains in different countries**.
+
+<h3 align="center">"A man's true wealth is the good he does in this world" - Prophet Muhammad (SAW)</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
