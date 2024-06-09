@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuuuvo&label=Profile%20views&color=0e75b6&style=flat" alt="shuuuvo" /> </p>
 
-- 🔭 I’m currently looking for **a PhD to start on Fall 2024**.
+- 🔭 I’m currently looking for **a PhD to start on Fall 2025**.
 
 - 👯 I’m looking to collaborate on **Data Science, Machine Learning, Artificial Intelligence, Computer Vision**.
 
