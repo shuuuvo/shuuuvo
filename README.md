@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, you can call me Shuvo!</h1>
-<h3 align="center">A Bangladeshi data science enthusiast in London</h3>
+<h3 align="center">A Bangladeshi data science enthusiast in Derry, Northern Ireland.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuuuvo&label=Profile%20views&color=0e75b6&style=flat" alt="shuuuvo" /> </p>
 
 - 🔭 I’m currently looking for **a PhD to start on Fall 2025**.
 
-- 👯 I’m looking to collaborate on **Data Science, Machine Learning, Artificial Intelligence, Computer Vision**.
+- 👯 I’m looking to collaborate on **Data Science, Artificial Intelligence, Computer Vision**.
 
 - 📫 How to reach me **grshuvo815@gmail.com**
 
